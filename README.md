@@ -16,8 +16,7 @@ This project uses the following packahes
 3. ScikitLearn
 The code should run with no issues using Python versions 3.8.
 
-The data has not been attached to the project. Please download the US EPA dataset from Kaggle, link available in (https://www.kaggle.com/epa/fuel-economy?select=database.csv).
-Store the 'database.csv' file in a folder called 'Data'.
+**The data has not been attached to the project. Please download the US EPA dataset from Kaggle, link available in (https://www.kaggle.com/epa/fuel-economy?select=database.csv). Store the 'database.csv' file in a folder called 'Data'**
 
 
 ## Project Motivation<a name="motivation"></a>
@@ -40,7 +39,7 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
