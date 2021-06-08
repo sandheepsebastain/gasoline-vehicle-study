@@ -33,13 +33,13 @@ I am interested in studying fuel economy of gasoline vehicles and for this proje
 ## File Descriptions <a name="files"></a>
 
 
-There is1 notebook available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is one notebook available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://sandheepsebastian.medium.com/study-of-gasoline-vehicles-fuel-economy-3bbba26ab2d0).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
